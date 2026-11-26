@@ -58,7 +58,7 @@ O projeto segue a arquitetura MVC do Spring, organizado nos pacotes:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/DeveloperLucasSilva/baozi-store-api.git](https://github.com/DeveloperLucasSilva/baozi-store-api.git)
+  git clone https://github.com/DeveloperLucasSilva/baozi-store-api.git
 
 2. Abra a pasta do projeto na sua IDE (VS Code, IntelliJ ou Eclipse).
 
