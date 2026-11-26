@@ -68,5 +68,5 @@ O projeto segue a arquitetura MVC do Spring, organizado nos pacotes:
 
 5. O console do banco H2 pode ser acessado em http://localhost:8080/h2-console.
 
-👤 Autor
-## Lucas da Silva – RU: 5285091
+##👤 Autor
+# Lucas da Silva – RU: 5285091
